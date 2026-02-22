@@ -1,9 +1,8 @@
-# Zxyphorz AI — Local Personal Assistant (No External AI API)
-
+# Zxyphorz AI 
 A beginner-friendly **multi-file** portfolio repo that runs on **localhost**.
 
 **What it is**
-- A local “AI-like” assistant named **Zxyphorz AI — Created by Xceon**
+- A local “AI-like” assistant named **Zxyphorz AI**
 - No external AI APIs. Everything is **local + deterministic**
 - Includes:
   - **Tools** (calculator, notes, todo, summaries, translator, knowledge packs)
